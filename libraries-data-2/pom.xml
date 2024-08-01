@@ -179,13 +179,13 @@
     </repositories>
 
     <properties>
-        <flink.version>1.5.0</flink.version>
+        <flink.version>1.9.2</flink.version>
         <hll.version>1.6.0</hll.version>
         <crdt.version>0.1.0</crdt.version>
         <unit-ri.version>1.0.3</unit-ri.version>
-        <infinispan.version>9.1.5.Final</infinispan.version>
-        <jackson.version>2.9.8</jackson.version>
-        <spring.version>4.3.8.RELEASE</spring.version>
+        <infinispan.version>11.0.6.Final</infinispan.version>
+        <jackson.version>2.12.7.1</jackson.version>
+        <spring.version>6.0.19</spring.version>
         <jmapper.version>1.6.0.1</jmapper.version>
         <suanshu.version>4.0.0</suanshu.version>
         <derive4j.version>1.1.0</derive4j.version>
@@ -196,7 +196,7 @@
         <renjin.version>RELEASE</renjin.version>
         <rcaller.version>3.0</rcaller.version>
         <rserve.version>1.8.1</rserve.version>
-        <kafka.version>2.5.0</kafka.version>
+        <kafka.version>2.6.3</kafka.version>
     </properties>
 
     <build>
